@@ -1,2 +1,2 @@
 # Git-CMD
-The most common GitHub Commands... :)
+The most common GitHub Commands ... :)
